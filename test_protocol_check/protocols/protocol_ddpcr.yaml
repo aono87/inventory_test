@@ -4,11 +4,11 @@ protocol_name: ddPCR
 supplies_per_sample:
   - item: 200 ul Ranin Tips (960 tips)
     quantity: 4
-    unit: tip
+    unit: tips
     
 - item: 200 ul Ranin Tips (960 tips)
     quantity: 1
-    unit: tip   
+    unit: tips
  
   - item: 10ul single channel tips (960 tips)
     quantity: 1
