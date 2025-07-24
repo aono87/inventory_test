@@ -1,0 +1,15 @@
+protocol: DNA Extraction with Macherey-Nagel NucleoMag® Tissue Kit
+samples_per_plate: 96
+
+supplies_per_sample:
+  T1 Lysis Buffer: 200
+  Proteinase K: 25
+  NucleoMag B-Beads: 24
+  Binding Buffer MB2: 360
+  Wash Buffer MB3: 600
+  Wash Buffer MB4: 600
+  Wash Buffer MB5: 900
+  Elution Buffer MB6: 100
+  
+
+unit: µL

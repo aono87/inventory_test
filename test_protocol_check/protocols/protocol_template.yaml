@@ -1,0 +1,30 @@
+protocol_name: Your Protocol Name Here
+# Add any other protocol-specific metadata here
+
+supplies_per_sample:
+  - item: Name of Supply Item 1 (per sample)
+    quantity: Required quantity per sample (e.g., 10)
+    unit: Unit of quantity (e.g., ul, items, grams)
+  - item: Name of Supply Item 2 (per sample)
+    quantity: Required quantity per sample (e.g., 5)
+    unit: Unit of quantity (e.g., ml)
+  # Add more items needed per sample as separate entries in this list
+  - item: Name of Supply Item 1 (per sample) # Example of a duplicate item
+    quantity: Required quantity for the duplicate (e.g., 2)
+    unit: Unit of quantity (e.g., ul)
+
+supplies_per_plate:
+  - item: Name of Supply Item A (per plate)
+    quantity: Required quantity per plate (e.g., 1)
+    unit: Unit of quantity (e.g., plate, item)
+  - item: Name of Supply Item B (per plate)
+    quantity: Required quantity per plate (e.g., 4)
+    unit: Unit of quantity (e.g., seals)
+  # Add more items needed per plate as separate entries in this list
+  - item: Name of Supply Item B (per plate) # Example of a duplicate item
+    quantity: Required quantity for the duplicate (e.g., 8)
+    unit: Unit of quantity (e.g., seals)
+
+# You can add other sections to your protocol file if needed,
+# but supplies_per_sample and supplies_per_plate are required
+# and should follow this list structure for duplicates.

@@ -1,0 +1,9 @@
+﻿Item,Unit,Stock Quantity,Reorder Threshold
+T1 Lysis Buffer,µL,15000,2000
+Proteinase K,µL,1000,250
+NucleoMag B-Beads,µL,3000,500
+Binding Buffer MB2,µL,20000,5000
+Wash Buffer MB3,µL,25000,5000
+Wash Buffer MB4,µL,25000,5000
+Wash Buffer MB5,µL,30000,5000
+Elution Buffer MB6,µL,8000,1000

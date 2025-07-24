@@ -1,0 +1,5 @@
+command to run:
+
+python scripts/supply_calculator.py --samples 15
+
+#if needed, python virtual environment is called venv
