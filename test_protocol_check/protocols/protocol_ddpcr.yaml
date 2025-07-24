@@ -6,7 +6,7 @@ supplies_per_sample:
     quantity: 4
     unit: tips
     
-- item: 200 ul Ranin Tips (960 tips)
+  - item: 200 ul Ranin Tips (960 tips)
     quantity: 1
     unit: tips
  
@@ -18,7 +18,7 @@ supplies_per_sample:
     quantity: 70
     unit: ul
  
- - item: ddPCR™ Supermix for Residual DNA Quantification (MMGP) (2 mL)
+  - item: ddPCR™ Supermix for Residual DNA Quantification (MMGP) (2 mL)
     quantity: 10
     unit: ul
  
@@ -30,11 +30,11 @@ supplies_per_sample:
     quantity: 0.5
     unit: ul
     
- - item: Forward Primer (10uM/ dilute stock 1:10) (200 uL)
+  - item: Forward Primer (10uM/ dilute stock 1:10) (200 uL)
     quantity: 1.8
     unit: ul
  
- - item: Reverse Primer (10uM/ dilute stock 1:10) (200 uL)
+  - item: Reverse Primer (10uM/ dilute stock 1:10) (200 uL)
     quantity: 1.8
     unit: ul
  
