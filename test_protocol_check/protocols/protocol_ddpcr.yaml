@@ -1,73 +1,51 @@
 protocol_name: ddPCR
-# Add any other protocol-specific metadata here
-
 supplies_per_sample:
   - item: 200 ul Ranin Tips (960 tips)
     quantity: 4
     unit: tips
-    
   - item: 200 ul Ranin Tips (960 tips)
     quantity: 1
     unit: tips
- 
   - item: 10ul single channel tips (960 tips)
     quantity: 1
     unit: tip
- 
   - item: BioRad ddPCR Oil for Probes (70 mL)
     quantity: 70
     unit: ul
- 
   - item: ddPCR™ Supermix for Residual DNA Quantification (MMGP) (2 mL)
     quantity: 10
     unit: ul
- 
   - item: ddPCR supermix for probes (no dUTP) (MTGP &FRD) (5 mL)
     quantity: 10
     unit: ul
- 
   - item: Taq Man Probe (10uM/ dilute stock 1:10) (200 uL)
     quantity: 0.5
     unit: ul
-    
   - item: Forward Primer (10uM/ dilute stock 1:10) (200 uL)
     quantity: 1.8
     unit: ul
- 
   - item: Reverse Primer (10uM/ dilute stock 1:10) (200 uL)
     quantity: 1.8
     unit: ul
- 
   - item: BioRad ddPCR Droplet Reader Oil (2 L)
     quantity: 166.67
     unit: ul
-
-
 supplies_per_plate:
   - item: ddPCR 96 well Semi skirted plates (25 plates)
     quantity: 1
     unit: item
-  
   - item: BioRad ddPCR Cartridges (24 cartridges)
     quantity: 1
     unit: item
-  
   - item: BioRad ddPCR Gaskets (24 gaskets)
     quantity: 1
     unit: item
-  
   - item: BioRad pierceable foil heat seal (100 seals)
     quantity: 1
     unit: item
-
   - item: BioRad pierceable foil heat seal (100 seals)
     quantity: 4
     unit: item
-    
   - item: non-skirted plates (10 plates)
     quantity: 1
     unit: item
-
-# You can add other sections to your protocol file if needed,
-# but supplies_per_sample and supplies_per_plate are required
-# and should follow this list structure for duplicates.
