@@ -1,0 +1,12 @@
+﻿Category,Item,Quantity,Unit
+per_sample,T1 Lysis Buffer (500 mL),200,ul
+per_sample,Proteinase K (200 mL),25,ul
+per_sample,NucleoMag B-Beads (700 mL),24,ul
+per_sample,Binding Buffer MB2 (500 mL),360,ul
+per_sample,Wash Buffer MB3 (500 mL),600,ul
+per_sample,Wash Buffer MB4 (500 mL),600,ul
+per_sample,Wash Buffer MB5 (500 mL),900,ul
+per_sample,Elution Buffer MB6 (500 mL),100,ul
+per_plate,ddPCR 96 well Semi skirted plates (25 plates),1,unit
+per_sample,200 ul Ranin Tips (960 tips),1,tips
+per_sample,10ul single channel tips (960 tips),1,tips
